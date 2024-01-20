@@ -1,7 +1,32 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# large files
+**/data/
+**/modelstate/
+**/checkpoints/
+
+# Environments
+env*
+env/
+.env
+.venv
+venv/
+venv3/
+ENV/
+env.bak/
+venv.bak/
+
+# Apple
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# C extensions
+*.so
 
 # C extensions
 *.so
