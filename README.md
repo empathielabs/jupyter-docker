@@ -39,6 +39,11 @@ Do this locally:
 ssh -L 2222:localhost:2222 <user>@<remote_host>
 ```
 
+for example
+```
+ssh -L 2222:localhost:2222 emily@cuddly-dragon.empathielabs.ai
+```
+
 go here locally
 ```
 http://localhost:2222/
