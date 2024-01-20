@@ -1,5 +1,5 @@
 # jupyter-docker
-how to setup your Jupyter notebook to use the environment within a Docker container
+how to setup your Jupyter notebook to use the environment within a Docker container on a remote virtual machine (ie with GPUs) and use the notebook locally 
 
 ```
 sudo docker build -t myjupyter .
