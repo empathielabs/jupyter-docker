@@ -1,9 +1,6 @@
 # jupyter-docker
 how to setup your Jupyter notebook to use the environment within a Docker container
 
-https://www.docker.com/blog/supercharging-ai-ml-development-with-jupyterlab-and-docker/
-https://forums.developer.nvidia.com/t/using-a-jupyter-notebook-within-a-docker-container/60188/4
-
 ```
 sudo docker build -t myjupyter .
 ```
@@ -46,3 +43,9 @@ go here locally
 ```
 http://localhost:2222/
 ```
+
+References
+
+[docker](https://www.docker.com/blog/supercharging-ai-ml-development-with-jupyterlab-and-docker/)
+[nvidia](https://forums.developer.nvidia.com/t/using-a-jupyter-notebook-within-a-docker-container/60188/4)
+
